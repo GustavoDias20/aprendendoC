@@ -90,4 +90,6 @@ int main(){
     printf("Apos pós-decremento - numero: %d - resultado: %d\n", numero3, resultado);
     resultado = --numero3;
     printf("Apos pré-decremento - numero: %d - resultado: %d\n", numero3, resultado);
+
+    return 0;
 }

@@ -40,4 +40,6 @@ int main() {
     %c: imprime um unico caractere
     %s: imprime uma cadeia (string) de caracteres
     */
+
+    return 0;
 }

@@ -17,4 +17,6 @@ int main(){
     scanf("%i", &matricula);
 
     printf("Nome do aluno: %s  matricula: %i\n idade: %i altura: %.2f", nome, matricula, idade, altura);
+
+    return 0;
 }
