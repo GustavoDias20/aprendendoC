@@ -9,7 +9,7 @@ int main(){
 
     srand(time(NULL)); // inicializa o gerador
 
-    numero = rand() % 5;
+    numero = rand() % 5; //numero aleatorio de 0 a 4 (5 numeros)
 
     char escolha[5][50] = { //um array de palavras
         "População",
